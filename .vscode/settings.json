@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "D:/Users/Public/Documents/GitHub/Vulkan/External Libraries/glm",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
