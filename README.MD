@@ -1,3 +1,11 @@
+
+To run do the following
+
+ctrl shift b (to build)
+
+f5 (to run)
+
+===================================================================
 Download https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 Select Windows application cpp (Top Left)
